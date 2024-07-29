@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/ramrajawat",
   resume:
-    "https://drive.google.com/file/d/15KFPO-n7__v87r62zwE6wGUiE1OKHwGu/view?usp=sharing",
+    "https://drive.google.com/file/d/1lq2568erQiSy6mR1x2K7mF8I_Av1DOeP/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ram-rajawat-198483280/",
   // twitter: "https://twitter.com/Ramrajawat",
   // insta: "https://www.instagram.com/RamRajawat/",
